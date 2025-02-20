@@ -67,7 +67,7 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 | 4.2-CL-4072250          	| 16-05-18	 	 | UE4.20-4072250 	    | 		https://public.simplyblk.xyz/4.2.zip|
 | 4.4-CL-4117433          	| 11-06-18       	 | UE4.20-4117433  	    |           https://public.simplyblk.xyz/4.4.rar|
 | 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		N/A |
-| 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		https://public.simplyblk.xyz/4.5.rar|
+| 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		https://public-build-archives-bucket.fluxapp.dev/4.5.zip|
 
 # Season 5
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
