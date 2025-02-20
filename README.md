@@ -118,7 +118,7 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 | 8.30-CL-N/A	                | 10-04-19         	 | UE4.23            	    |		https://public.simplyblk.xyz/8.30.rar|
 | 8.40-CL-N/A	                | 17-04-19         	 | UE4.23            	    |		https://public.simplyblk.xyz/8.40.zip|
 | 8.50-CL-6058028	        | 25-04-19       	 | UE4.23            	    |		https://public.simplyblk.xyz/8.50.zip|
-| 8.51-CL-N/A	                | 02-05-19         	 | UE4.23            	    |		https://public.simplyblk.xyz/8.51.rar|
+| 8.51-CL-N/A	                | 02-05-19         	 | UE4.23            	    |		https://public-build-archives-bucket.fluxapp.dev/8.51.zip|
 
 # Season 9
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
