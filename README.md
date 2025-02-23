@@ -93,7 +93,7 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 | 6.10-CL-4476098       	| 16-10-18      	 | UE4.21-4476098   	    | 		https://public.simplyblk.xyz/6.10.1.rar|
 | 6.10-CL-4480234   	  	| 16-10-18       	 | UE4.21-4480234	    |		https://public.simplyblk.xyz/6.10.2.rar|
 | 6.20-CL-4497486          	| 24-10-18         	 | UE4.21-4497486     	    | 		N/A |
-| 6.21-CL-4526925         	| 01-11-18       	 | UE4.21-4526925	    |		https://public.simplyblk.xyz/6.21.rar|
+| 6.21-CL-4526925         	| 01-11-18       	 | UE4.21-4526925	    |		https://builds.rebootfn.org/6.21.rar|
 | 6.22-CL-4543176		| 04-11-18		 | UE4.21-4543176	    | 		https://public.simplyblk.xyz/6.22.rar|
 | 6.30-CL-4573096         	| 13-11-18       	 | UE4.21-4573096	    |		https://public.simplyblk.xyz/6.30.rar|
 | 6.31-CL-4573279      	  	| 27-11-18       	 | UE4.21-4573279	    |		https://public.simplyblk.xyz/6.31.rar|
